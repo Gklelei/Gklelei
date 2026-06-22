@@ -1,9 +1,9 @@
 # Hi there, I'm Gideon Kipkoech Lelei 👋
 
 ### Software Engineer | Full Stack Developer | Backend Specialist
-📍 Kericho, Kenya 
+📍 Nairobi, Kenya 
 
-I am a dedicated Software Engineering professional focused on building scalable web applications and ensuring system reliability through rigorous software testing. My experience spans the end-to-end development lifecycle, from digitizing manual workflows to integrating secure M-Pesa payment gateways. I am highly skilled in modern frameworks including Next.js, NestJS, and Flask, with a strong commitment to clean architecture and comprehensive system documentation.
+I am a dedicated Software Engineering professional focused on building scalable web applications and ensuring system reliability through rigorous software testing. My experience spans the end-to-end development lifecycle, from digitizing manual workflows to integrating secure M-Pesa payment gateways. I am highly skilled in modern frameworks including Next.js and Flask, with a strong commitment to clean architecture and comprehensive system documentation.
 
 ---
 
