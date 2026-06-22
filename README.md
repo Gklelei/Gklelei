@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Gideon Kipkoech Lelei 👋
 
 ### Software Engineer | Full Stack Developer | Backend Specialist[cite: 1]
@@ -14,6 +13,11 @@ I am a dedicated Software Engineering professional focused on building scalable 
 *   **NyumbaHQ:** Architecting the backend, background jobs, and domain setup for a robust Property Management System.
 *   **VibeBuy:** Building the database schema and full-stack architecture for a custom e-commerce application.
 
+### 💼 Professional Experience
+*   **USAID AMPATH Uzima (Software Engineering Intern):** Pioneered the digital transformation of manual healthcare forms into dynamic web interfaces using React and SCSS, reducing data retrieval time by 20%[cite: 1]. Developed robust APIs, optimized complex SQL queries for the National Data Warehouse, and integrated M-Pesa payment functionality via the Daraja Portal[cite: 1].
+*   **Kisumu International Airport (ICT & Infrastructure Intern):** Managed real-time Flight Information Display Systems, orchestrated the installation of high-speed fiber optic networks, and provided comprehensive ICT technical support[cite: 1].
+
+---
 
 ### 💻 Tech Stack & Tools
 
@@ -23,7 +27,7 @@ I am a dedicated Software Engineering professional focused on building scalable 
 *   HTML5, CSS3 & Tailwind CSS[cite: 1]
 
 **Backend & APIs:**
-*   Node.js, Express
+*   Node.js & Express [cite:1].
 *   Python & Flask[cite: 1]
 
 **Databases & ORMs:**
@@ -48,5 +52,3 @@ I am a dedicated Software Engineering professional focused on building scalable 
 *   **Email:** leleigideon97@gmail.com[cite: 1]
 *   **LinkedIn:** [linkedin.com/in/gklelei/](https://linkedin.com/in/gklelei/)[cite: 1]
 *   **Phone:** +254-758-080-448[cite: 1]
-
-```
